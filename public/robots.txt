@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+# Sitemap can be added once custom domain is configured
